@@ -21,8 +21,8 @@ A professional Node.js email service built with SendGrid API for sending dynamic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sendgrid-email-sender.git
-cd sendgrid-email-sender
+git clone https://github.com/leefarhadaman/mail-sender.git
+cd mail-sender
 ```
 
 2. Install dependencies:
